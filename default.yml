@@ -3,5 +3,5 @@ jwt:
   secret: hello-world
   ret: abcde
 posco:
-  name: "{cipher}e28f1bbb44f6c17b1f4ae17a7660e5cbea857dcb0dc3dfb593eab094bcbb5f3e"
+  name: "{cipher}71ea141baa7aa2b98209756587d20c6d402bc9f0af3150295dc4251dc2c417bf"
   count: 20

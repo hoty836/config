@@ -1,6 +1,7 @@
 jwt:
   time: 1000
   secret: hello-world
+  ret: abcde
 posco:
   name: 3기
   count: 20

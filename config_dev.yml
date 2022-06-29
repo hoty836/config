@@ -1,9 +1,9 @@
 jwt:
-  time: 828428
-  secret: hello-world212412
+  time: 828434d28
+  secret: hello-world21241223
 posco:
-  name: 3345기
-  count: 202323
+  name: 332245기
+  count: 20212323
 test:
   datasource:
     url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp&characterEncoding=UTF-8
